@@ -1,4 +1,4 @@
- <#
+﻿ <#
     .SYNOPSIS
 
         This function can be used to export all Wifi
@@ -60,7 +60,7 @@ Write-Host "
     ╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚════╝░╚═════╝░  ░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
 
 
-    Title: Wifi Password Grabber
+    Title: Quick Access Links Import
     Author: Andrew Metallinos <andrew@metallinostech.com.au>
     Creation Date: 24/04/2022
     Revision Date: 25/04/2022
