@@ -1,11 +1,6 @@
 # Wifi-Password-Grabber
 
-A PowerShell script to get all the saved Wifi passwords from a device and send the output through gmail.
+PowerShell script to gather all Wifi passwords from a device and then have it emailed out as a .txt file.
 
 ### Powershell Script
-Edit the script and provide the email to be use to send and receive the output then run the script to the victims computer.
-
-### Payloads
-Used to automatically download and run the script to the victims computer using a Bad USB.
- - Rubber Ducky
- - Cactus WHID
+Edit the script and provide the email to be use to send the output then run the script on the desired device. Once you start the script it will prompt you to enter in he email you want it sent to.
